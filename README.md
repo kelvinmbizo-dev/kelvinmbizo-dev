@@ -1,3 +1,6 @@
-## Hi there 👋
-I'm Kelvin Mbizo, a young developer curren pursuing a BSC. ISM at Ardhi University
+Hi there! 👋
+
+I’m an Information Systems & Management student passionate about Software Development, Data Analytics, and AI.
+
+💻 Learning • 📊 Analyzing • 🤖 Exploring • 🚀 Building
 
