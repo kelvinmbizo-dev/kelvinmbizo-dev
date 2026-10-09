@@ -41,6 +41,7 @@ Exploring
 ICTPACK Training Development System (ITDP)
 
 A collaborative web-based system designed to manage training programs, student applications, placements, supervisor assignments, and training progress.
+
 🔗[Repo] (https://github.com/kelvinmbizo-dev/ICTPACK-TALENT-DEVELOPMENT-PORTAL.git)
 🌐[Live Demo] (https://itdp.demo.ictpack.net)
 
